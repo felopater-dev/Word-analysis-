@@ -1,0 +1,19 @@
+# Word Analysis Tool
+
+A simple C++ program that analyzes text to count words and characters.  
+- my AI Tutor for Upper Egypt students.
+
+## Features
+- Count total characters excluding spaces
+- Simple command-line interface
+- Fast processing for large text files
+
+## Technologies Used
+- **Language**: C++17
+- **Concepts**: Strings, File Handling, STL Algorithms
+- **IDE**: Visual Studio 2022
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/felopater-dev/Word-analysis-.git
